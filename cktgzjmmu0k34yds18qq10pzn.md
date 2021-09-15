@@ -1,4 +1,4 @@
-## Easter eggs using Rooks
+## Easter eggs using React Rooks
 
 I stumbled upon this great React Hooks library called [Rooks](https://react-hooks.org/) recently and it has got a lot to offer. We all have discovered various Easter eggs in various apps and sites. It can range anywhere from stumbling upon a Rick-roll when you click a button a certain number of times or enjoying playing snake when you press a hidden button on a 404 page. 
 
