@@ -158,3 +158,5 @@ One thing you might have noticed is that when you run `create-ink-app`, it links
 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631962074043/jUNFZANdV.png)
+
+> Credits to @[Denin Paul](@deninpaul) for help with the thumbnail
