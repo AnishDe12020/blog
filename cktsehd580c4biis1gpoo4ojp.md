@@ -13,5 +13,3 @@ I have made a template in GitHub (which you can find [here](https://github.com/A
 # Things to keep in mind
 - If someone has already made a package with the same name on NPM, then you need to choose something else
 - NPM version 5.2 is needed at a minimum to use NPX (it can be used as a standalone package though)
-
-Thanks to @[Denin Paul](@deninpaul) for help with the thumbnail
