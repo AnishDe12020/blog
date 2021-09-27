@@ -1,0 +1,13 @@
+## My Journey into Technical Writing
+
+# Before I started writing
+I was interested in tech in general from a very young age and have been expanding my knowledge from watching videos and reading articles for a long time. I used to read articles written across many technical news outlets like [GSMArena](https://www.gsmarena.com/), [XDA Developers](https://www.xda-developers.com/), and many more. Programming was something I started learning a few years back but I didn't read as many articles about it. About a year back, I found out [dev.to](https://dev.to/) and that is when I started reading a lot of articles on programming. As a side note, I have a [YouTube channel](https://www.youtube.com/channel/UCY-rVWTIsN-G7s81C89SzkA) which I started last year and it has been quite a good experience. I have not uploaded any videos for about 3 months now but I aim to resume sometime in the future.
+
+# Starting with technical writing
+I never wrote an article on DEV until I found out about Hashnode back in April of this year. Hashnode was a great place to start my blog so I made a publication and wrote [my first article](https://blog.anishde.dev/cryptography-with-python-using-fernet). I also cross-posted that article to DEV and I got quite a lot of views on that article. I liked it and then wrote [my second article](https://blog.anishde.dev/the-random-library-in-python) a few days later. Note that I was still making videos on my YouTube channel at this time.
+
+# Getting more interested
+After writing those two articles, I didn't write any for a few months and that was because I didn't know what to write about and I was still not very confident if I would be able to do good. Things changed with the [August Hashnode x Auth0 BootCamp](https://townhall.hashnode.com/auth0-hackathon) where I made an application and wrote [an article](https://blog.anishde.dev/easy-comments) as a part of my submission. Suddenly, I got more interested in technical writing and I have written 8 blog posts in the last 3 weeks. Hashnode's [2articles1week](https://hashnode.com/challenge/2articles1week) challenge has got me into writing consistently and the [Technical Writing Bootcamp](https://hashnode.com/bootcamp) has taught me a lot about writing.
+
+# What's next?
+I aim to write more articles about programming and tech from now on. I also plan on reviving my YouTube channel with videos about programming, let me know your thoughts in the comments section. I am also working on a portfolio site right now and will be working on more projects and learning more. [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is just 3 days away and I plan on participating in Hacktoberfest as well.
