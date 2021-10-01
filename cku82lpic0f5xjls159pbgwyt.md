@@ -1,4 +1,4 @@
-## Creating a Bug Report Form in GitHUb
+## Creating a Bug Report Form in GitHub
 
 [GitHub](https://github.com/) allowed us to make pre-build issue templates in the form of markdown files which the person reporting the bug could fill out. This was better than presenting the person reporting the bug with a blank textbox but it could get a bit clumsy at times and many wouldn't follow the format. GitHub now has got an option to build a form that one can fill out as a bug report. Note that Issue forms are in beta currently.
 
