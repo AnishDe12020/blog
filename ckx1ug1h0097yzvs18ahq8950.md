@@ -1,6 +1,6 @@
 ## Adding an in-browser code preview to your React Application with Sandpack
 
-[Sandpack](https://sandpack.codesandbox.io/) is a live coding environment that runs on the browser. It is made by the team behind [CodeSandbox](https://codesandbox.io/)/. The main objective here is to provide interactive examples to play around with, to users. I see it being widely used in things like blog posts and documentation (in fact the, work in progress, [new React Docs](https://beta.reactjs.org/learn) is using Sandpack). In this article, we are going to look at how to add Sandpack to a React Application and then we will look at integrating it with [Next MDX Remote](https://github.com/hashicorp/next-mdx-remote) in a NextJS Application.
+[Sandpack](https://sandpack.codesandbox.io/) is a live coding environment that runs on the browser. It is made by the team behind [CodeSandbox](https://codesandbox.io/). The main objective here is to provide interactive examples to play around with, to users. I see it being widely used in things like blog posts and documentation (in fact the, work in progress, [new React Docs](https://beta.reactjs.org/learn) is using Sandpack). In this article, we are going to look at how to add Sandpack to a React Application and then we will look at integrating it with [Next MDX Remote](https://github.com/hashicorp/next-mdx-remote) in a NextJS Application.
 
 ## Adding Sandpack to our Project
 
