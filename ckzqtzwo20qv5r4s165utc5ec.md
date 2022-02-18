@@ -52,9 +52,7 @@ Now, select "Deploy from Repo" on the new project screen -
 
 Do note that if you didn't sign up with GitHub, you will be prompted to connect your GitHub account.
 
-Search and select Umami there - 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645084387165/w9D_Izduy.png)
+Search and select Umami there.
 
 Make sure that the master branch has been selected. Now click on deploy - 
 
