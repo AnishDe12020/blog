@@ -109,7 +109,7 @@ Now, we need to make tables in our database. For this, we need to locally clone 
 
 Now, we need to [install the Railway CLI](https://docs.railway.app/develop/cli). You can install it with NPM with the following command - 
 ```
-npm i -g @railway/CLI
+npm i -g @railway/cli
 ```
 You can also install it with [Homebrew](https://brew.sh/) with the following command - 
 ```
