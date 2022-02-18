@@ -293,7 +293,7 @@ Woohoo, that was a lot!
 ## Conclusion
 We got Umami set up and running and added analytics to a NextJS application. Umami does a lot more like recording events. Take a look at [their documentation for more information](https://umami.is/docs)
 
-I hope everything worked out for you. Do feel free to comment on this article or reach out to me [Twitter](https://twitter.com/AnishDe12020) and I will help you out 😄
+I hope everything worked out for you. Do feel free to comment on this article or reach out to me on [Twitter](https://twitter.com/AnishDe12020) and I will help you out 😄
 
 ## Important Links
 - [Umami](https://umami.is/)
