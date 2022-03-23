@@ -9,6 +9,8 @@ Clicking tabs can be quite a painful and slow process, especially, if you switch
 
 <kbd>Ctrl</kbd> + <kbd>Tab</kbd> (for Windows) and <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>→</kbd> (for macOS) lets you move to the next tab.
 
+Edit: <kbd>Ctrl</kbd> + <kbd>Tab</kbd> works on macOS too, kudos to @[Dhruva Srinivas](@carrotfarmer) for pointing it out
+
 Bonus:
 We can also move to the previous tab with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd> (for Windows) and <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>←</kbd> (for macOS)
 
