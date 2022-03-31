@@ -16,7 +16,7 @@ However, making a GraphQL backend is more complicated than making a simple REST 
 
 Hasura also has a cloud offering with a decent free tier so that we can get started with hosting our GaphQL backend without needing to worry about costs. It is Open Source and Self-Hostable as well.
 
-## 📚 The Teach Stack
+## 📚 The Tech Stack
 
 What all technologies did I use for XdoX?
 
