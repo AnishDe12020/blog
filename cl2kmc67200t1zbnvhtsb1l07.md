@@ -202,7 +202,7 @@ In `getStaticProps` we do a query where we filter by the `slug` field. We also s
 
 Lastly, we pass the data in through props and render it on the client-side.
 
-Also, we can add some CSS for this page. Create a new file called `styles/BlogPost.modules.css` and add the following to it - 
+Also, we can add some CSS for this page. Create a new file called `styles/BlogPost.module.css` and add the following to it - 
 ```css
 .container {
   padding: 0 2rem;
