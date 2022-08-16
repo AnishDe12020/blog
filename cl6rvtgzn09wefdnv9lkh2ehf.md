@@ -57,20 +57,20 @@ We can also specify an extension with the `-e` flag -
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660303647841/LgRlovka3.png)
 
-## `rigrep`
-[`rigrep`](https://github.com/BurntSushi/ripgrep) is an alternative to the `grep` command and the main highlight is its speed. It also automatically ignores files specified in ignore files like `.gitignore` and `.ignore`. 
+## `ripgrep`
+[`ripgrep`](https://github.com/BurntSushi/ripgrep) is an alternative to the `grep` command and the main highlight is its speed. It also automatically ignores files specified in ignore files like `.gitignore` and `.ignore`. 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660304440208/7FkNjBeCy.png)
 
 Yes, that took just 20 milliseconds!
 
-Rigrep comes with many other features too, like searching in specific file types and searching inside zips. 
+Ripgrep comes with many other features too, like searching in specific file types and searching inside zips. 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660304800607/Tj8WyJOgt.png)
 
 Here, we can specify the file type using the `-t` flag.
 
-## BONUS: `tldr` 
+## BONUS: `tealdeer` 
 [`tealdeer`](https://github.com/dbrgn/tealdeer) is an alternative to the [`tldr`](https://github.com/tldr-pages/tldr) tool. Both accomplish the same task, that is, showing community-driven help/man pages which are easier to read and understand than the traditional, detailed ones. Here is an example for `exa` - 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660306721508/ncF7d_nJ1.png)
