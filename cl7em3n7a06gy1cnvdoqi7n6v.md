@@ -61,9 +61,9 @@ Pay the devnet SOL and let the transaction succeed (shouldn't take more than 10 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661670086416/9OQ4F3BPU.png)
 
-On the collection dashboard, you will be able to see the QR code one can scan to redeem the NFT. There is a link as well which one can open on their phones to redeem the NFT. 
+On the collection dashboard, you will be able to see the QR code one can scan to redeem the NFT. There is a link as well which one can open on their phone to redeem the NFT. 
 
-Oh by the way, that QR code in the screenshot actually works so you can try to scan the QR code to get this NFT, until supply lasts of course.
+Oh, by the way, that QR code in the screenshot actually works so you can try to scan the QR code to get this NFT until supply lasts of course.
 
 ## Claiming an NFT using the CandyPay QR Code
 If I now scan the QR Code, I will be prompted to confirm a transaction but notice that no SOL is getting deducted from my side, so it is gasless! (I had to do it with Solflare this time as Phantom errored out)
