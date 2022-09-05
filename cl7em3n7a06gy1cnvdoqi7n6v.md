@@ -6,8 +6,6 @@ That is where [CandyPay](https://candypay.fun/) comes in. CandyPay lets you crea
 
 Additionally, we are going to be looking at gasless NFTs which do not cost any SOL to the receiver to claim. Instead, we, the creator of the NFT pre-pay the gas. Note that we can get back our SOL if any of the pre-paid SOL remains unused.
 
-A small disclaimer - CandyPay is still in an early stage and there are some bugs but these are being fixed at a very fast pace. If you face any problems, feel free to reach out to the CandyPay team on [their discord server](https://discord.com/invite/VGjPXWUHGT) and they would be happy to assist you :)
-
 ## Prerequisites
 All of these don't require you to pay any real money.
 - A Solana wallet with Solana pay support. You can use [Phantom](https://phantom.app/) or [Solflare](https://solflare.com/), both of which are available for Android, iOS, and as a browser extension as well although you will need the mobile app for Solana pay.
